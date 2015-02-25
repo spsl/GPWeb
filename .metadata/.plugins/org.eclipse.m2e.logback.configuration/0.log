@@ -228,3 +228,54 @@
 2015-02-25 19:34:08,719 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /graduation/src/main/java
 2015-02-25 19:34:08,729 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /graduation/src/test/java
 2015-02-25 19:34:09,443 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 198 sec
+2015-02-25 19:34:12,075 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\respositories\GPWeb\graduationDal\pom.xml
+2015-02-25 19:34:12,227 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunsai:graduationDal:0.0.1 @ E:\respositories\GPWeb\graduationDal\pom.xml.
+2015-02-25 19:34:13,147 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /graduationDal/src/main/java
+2015-02-25 19:34:13,164 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /graduationDal/src/test/java
+2015-02-25 19:34:13,469 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-02-25 19:34:15,139 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunsai:graduationDal:0.0.1 @ E:\respositories\GPWeb\graduationDal\pom.xml.
+2015-02-25 19:34:17,640 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunsai:graduation:0.0.1 @ E:\respositories\GPWeb\graduation\pom.xml.
+2015-02-25 19:34:18,180 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 19:34:18,180 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduation\src\main\resources
+2015-02-25 19:34:18,193 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 19:34:18,194 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduation\src\test\resources
+2015-02-25 19:34:19,105 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunsai:graduationDal:0.0.1 @ E:\respositories\GPWeb\graduationDal\pom.xml.
+2015-02-25 19:34:19,542 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 19:34:19,542 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationDal\src\main\resources
+2015-02-25 19:34:19,546 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 19:34:19,546 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationDal\src\test\resources
+2015-02-25 19:34:21,141 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunsai:graduationDal:0.0.1 @ E:\respositories\GPWeb\graduationDal\pom.xml.
+2015-02-25 19:34:23,091 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 19:34:23,091 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationDal\src\main\resources
+2015-02-25 19:34:23,099 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 19:34:23,099 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationDal\src\test\resources
+2015-02-25 19:35:33,333 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\respositories\GPWeb\graduationBll\pom.xml
+2015-02-25 19:35:33,902 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunsai:graduationBll:0.0.1 @ E:\respositories\GPWeb\graduationBll\pom.xml.
+2015-02-25 19:35:34,163 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /graduationBll/src/main/java
+2015-02-25 19:35:34,173 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /graduationBll/src/test/java
+2015-02-25 19:35:34,324 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2015-02-25 19:35:35,297 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunsai:graduationBll:0.0.1 @ E:\respositories\GPWeb\graduationBll\pom.xml.
+2015-02-25 19:35:35,607 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 19:35:35,607 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationBll\src\main\resources
+2015-02-25 19:35:35,628 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 19:35:35,628 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationBll\src\test\resources
+2015-02-25 19:35:36,630 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunsai:graduationBll:0.0.1 @ E:\respositories\GPWeb\graduationBll\pom.xml.
+2015-02-25 19:35:36,894 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 19:35:36,894 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationBll\src\main\resources
+2015-02-25 19:35:36,896 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 19:35:36,897 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationBll\src\test\resources
+2015-02-25 19:36:37,206 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\respositories\GPWeb\graduationCommon\pom.xml
+2015-02-25 19:36:37,617 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunsai:graduationCommon:0.0.1 @ E:\respositories\GPWeb\graduationCommon\pom.xml.
+2015-02-25 19:36:38,102 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /graduationCommon/src/main/java
+2015-02-25 19:36:38,112 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /graduationCommon/src/test/java
+2015-02-25 19:36:38,266 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2015-02-25 19:36:39,228 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunsai:graduationCommon:0.0.1 @ E:\respositories\GPWeb\graduationCommon\pom.xml.
+2015-02-25 19:36:39,472 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 19:36:39,472 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationCommon\src\main\resources
+2015-02-25 19:36:39,475 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 19:36:39,475 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationCommon\src\test\resources
+2015-02-25 19:36:40,501 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunsai:graduationCommon:0.0.1 @ E:\respositories\GPWeb\graduationCommon\pom.xml.
+2015-02-25 19:36:40,776 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 19:36:40,776 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationCommon\src\main\resources
+2015-02-25 19:36:40,778 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 19:36:40,779 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationCommon\src\test\resources
