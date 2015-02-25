@@ -279,3 +279,37 @@
 2015-02-25 19:36:40,776 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationCommon\src\main\resources
 2015-02-25 19:36:40,778 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2015-02-25 19:36:40,779 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationCommon\src\test\resources
+2015-02-25 20:08:23,396 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunsai:graduationDal:0.0.1 @ E:\respositories\GPWeb\graduationDal\pom.xml.
+2015-02-25 20:08:24,529 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:08:24,530 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationDal\src\main\resources
+2015-02-25 20:08:24,532 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:08:24,532 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationDal\src\test\resources
+2015-02-25 20:08:27,110 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:08:27,110 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationDal\src\main\resources
+2015-02-25 20:08:27,115 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:08:27,116 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationDal\src\test\resources
+2015-02-25 20:09:30,840 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sunsai:graduation:0.0.1 @ E:\respositories\GPWeb\graduation\pom.xml.
+2015-02-25 20:09:31,637 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:09:31,638 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduation\src\main\resources
+2015-02-25 20:09:31,641 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:09:31,641 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduation\src\test\resources
+2015-02-25 20:09:36,155 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:09:36,156 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduation\src\main\resources
+2015-02-25 20:09:36,159 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:09:36,160 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduation\src\test\resources
+2015-02-25 20:13:30,782 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:13:30,793 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduation\src\main\resources
+2015-02-25 20:13:30,799 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:13:30,799 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduation\src\test\resources
+2015-02-25 20:13:30,893 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:13:30,902 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationBll\src\main\resources
+2015-02-25 20:13:30,905 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:13:30,905 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationBll\src\test\resources
+2015-02-25 20:13:30,986 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:13:30,986 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationCommon\src\main\resources
+2015-02-25 20:13:30,990 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:13:30,990 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationCommon\src\test\resources
+2015-02-25 20:13:31,572 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:13:31,572 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationDal\src\main\resources
+2015-02-25 20:13:31,574 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-02-25 20:13:31,574 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\respositories\GPWeb\graduationDal\src\test\resources
