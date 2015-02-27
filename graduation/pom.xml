@@ -5,7 +5,7 @@
   <groupId>com.sunsai</groupId>
   <artifactId>graduation</artifactId>
   <version>0.0.1</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>graduation</name>
   <url>http://maven.apache.org</url>
@@ -64,7 +64,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
-			<version>${org.springframework-version}</version>
+			<version>3.1.1.RELEASE</version>
 			<exclusions>
 				<!-- Exclude Commons Logging in favor of SLF4j -->
 				<exclusion>
@@ -87,4 +87,6 @@
     
     
   </dependencies>
+  
+  
 </project>

@@ -1,4 +1,11 @@
 eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ASPECTJRT_LIB=D\:/sts-bundle/sts-3.6.3.SR1/plugins/org.aspectj.runtime_1.8.5.20141218084900.jar
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=D\:/sts-bundle/sts-3.6.3.SR1/
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jre1.8.0_25/lib/rt.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=D\:/sts-bundle/sts-3.6.3.SR1/plugins/org.junit_4.11.0.v201303080030/
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/\u8D5B/.m2/repository
 org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8

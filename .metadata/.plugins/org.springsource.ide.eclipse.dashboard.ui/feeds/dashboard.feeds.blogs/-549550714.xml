@@ -5,7 +5,56 @@
   <link rel="self" href="https://spring.io/blog.atom" />
   <id>http://spring.io/blog.atom</id>
   <icon>https://spring.io/favicon.ico</icon>
-  <updated>2015-02-24T23:25:00Z</updated>
+  <updated>2015-02-27T00:52:38Z</updated>
+  <entry>
+    <title>Spring Boot 1.2.2 released</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/02/27/spring-boot-1-2-2-released" />
+    <category term="releases" label="Releases" />
+    <author>
+      <name>Phil Webb</name>
+    </author>
+    <id>tag:spring.io,2015-02-27:2001</id>
+    <updated>2015-02-27T00:52:38Z</updated>
+    <content type="html">&lt;p&gt;Spring Boot 1.2.2 has been released and is available now from &lt;a href="http://repo.spring.io/release"&gt;repo.spring.io&lt;/a&gt; and &lt;a href="http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.springframework.boot%22"&gt;Maven Central&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;This maintenance release includes a &lt;a href="https://github.com/spring-projects/spring-boot/issues?q=milestone%3A1.2.2"&gt;significant number of fixes&lt;/a&gt; and is a recommended upgrade for all users.&lt;/p&gt;&lt;p&gt;We&amp;rsquo;ve also managed to sneak support for JMustache into this release, see &lt;a href="https://github.com/spring-projects/spring-boot/tree/v1.2.2.RELEASE/spring-boot-samples/spring-boot-sample-web-mustache"&gt;this application&lt;/a&gt; for an example of how to use it.&lt;/p&gt;&lt;p&gt;&lt;a href="http://projects.spring.io/spring-boot/"&gt;Project Page&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-boot"&gt;GitHub&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-boot/issues"&gt;Issues&lt;/a&gt; | &lt;a href="http://docs.spring.io/spring-boot/docs/1.2.2.RELEASE/reference/htmlsingle"&gt;Documentation&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Spring Boot 1.1.11 released</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/02/27/spring-boot-1-1-11-released" />
+    <category term="releases" label="Releases" />
+    <author>
+      <name>Phil Webb</name>
+    </author>
+    <id>tag:spring.io,2015-02-27:2000</id>
+    <updated>2015-02-27T00:47:00Z</updated>
+    <content type="html">&lt;p&gt;Spring Boot 1.1.11 has been released and is available now from &lt;a href="http://repo.spring.io/release"&gt;repo.spring.io&lt;/a&gt; and &lt;a href="http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.springframework.boot%22"&gt;Maven Central&lt;/a&gt;. &lt;/p&gt;&lt;p&gt;This maintenance release includes a &lt;a href="https://github.com/spring-projects/spring-boot/issues?q=milestone%3A1.1.11"&gt;number of fixes&lt;/a&gt; and is recommended for anyone still on the 1.1.x line. We&amp;rsquo;re only planning critical bug fixes for 1.1.x from now on so please consider &lt;a href="http://spring.io/blog/2015/02/27/spring-boot-1-2-2-released"&gt;upgrading to 1.2.2&lt;/a&gt; if possible.&lt;/p&gt;&lt;p&gt;&lt;a href="http://projects.spring.io/spring-boot/"&gt;Project Page&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-boot"&gt;GitHub&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-boot/issues"&gt;Issues&lt;/a&gt; | &lt;a href="http://docs.spring.io/spring-boot/docs/1.1.11.RELEASE/reference/htmlsingle"&gt;Documentation&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Spring Security 4.0.0.RC2 Released</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/02/26/spring-security-4-0-0-rc2-released" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Rob Winch</name>
+    </author>
+    <id>tag:spring.io,2015-02-25:1999</id>
+    <updated>2015-02-26T17:48:10Z</updated>
+    <content type="html">&lt;p&gt;We are please to announce the release of Spring Security 4.0.0.RC2. &lt;/p&gt;&lt;p&gt;We were very keen on doing a GA release, but due to community feedback we decided that another RC was necessary. Ultimately, this release resolved nearly &lt;a href="https://jira.spring.io/issues/?jql=project%20%3D%20SEC%20AND%20fixVersion%20%3D%204.0.0.RC2%20ORDER%20BY%20priority%20DESC"&gt;50 tickets&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;A summary of changes can be seen below:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Support for enforcing &lt;a href="http://docs.spring.io/spring-security/site/docs/4.0.0.RC2/reference/htmlsingle/#websocket-sameorigin"&gt;Same Origin for WebSocket connections&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Refinements in &lt;a href="http://docs.spring.io/spring-security/site/docs/4.0.0.RC2/reference/htmlsingle/#websocket"&gt;WebSocket Configuration&lt;/a&gt; (&lt;a href="https://jira.spring.io/browse/SEC-2827"&gt;SEC-2827&lt;/a&gt; &lt;a href="https://jira.spring.io/browse/SEC-2833"&gt;SEC-2833&lt;/a&gt; &lt;a href="https://jira.spring.io/browse/SEC-2853"&gt;SEC-2853&lt;/a&gt; )&lt;/li&gt;
+  &lt;li&gt;More intuitive HTTP Response Headers Configuration (&lt;a href="https://jira.spring.io/browse/SEC-2846"&gt;SEC-2846&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Assuming everything goes smoothly, the plan is to do a GA release in approximately two weeks. In the meantime, make sure to try everything out and give us feedback!&lt;/p&gt;&lt;p&gt;&lt;a href="http://projects.spring.io/spring-security/"&gt;Project Site&lt;/a&gt; | &lt;a href="http://docs.spring.io/spring-security/site/docs/4.0.0.RC2/reference/htmlsingle/"&gt;Reference&lt;/a&gt; | &lt;a href="http://docs.spring.io/spring-security/site/docs/4.0.0.RC2/guides/"&gt;Guides&lt;/a&gt; | &lt;a href="https://jira.spring.io/browse/SEC/"&gt;Issues&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Spring Security 3.2.6 Released</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/02/26/spring-security-3-2-6-released" />
+    <category term="releases" label="Releases" />
+    <author>
+      <name>Rob Winch</name>
+    </author>
+    <id>tag:spring.io,2015-02-25:1998</id>
+    <updated>2015-02-26T17:47:26Z</updated>
+    <content type="html">&lt;p&gt;I&amp;rsquo;m pleased to announce the release of Spring Security 3.2.6.RELEASE. This release contains some important fixes (many addressing Java Configuration and Spring Boot issues). You can find a complete list of changes in the &lt;a href="https://jira.spring.io/issues/?jql=fixVersion%20%3D%203.2.6%20AND%20project%20%3D%20SEC%20ORDER%20BY%20priority%20DESC"&gt;changelog&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;a href="http://projects.spring.io/spring-security/"&gt;Project Site&lt;/a&gt; | &lt;a href="http://docs.spring.io/spring-security/site/docs/3.2.6.RELEASE/reference/htmlsingle/"&gt;Reference&lt;/a&gt; | &lt;a href="http://docs.spring.io/spring-security/site/docs/3.2.6.RELEASE/guides/"&gt;Guides&lt;/a&gt; | &lt;a href="https://jira.spring.io/browse/SEC/"&gt;Issues&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>This Week in Spring - February 24th, 2015</title>
     <link rel="alternate" href="https://spring.io/blog/2015/02/24/this-week-in-spring-february-24th-2015" />
@@ -449,86 +498,6 @@ server.start();
 &lt;p&gt;&#xD;
   &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HCyYEVRZISk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&#xD;
 &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>SpringOne2GX 2014 Replay: Testing with Spring Framework 4.x</title>
-    <link rel="alternate" href="https://spring.io/blog/2015/02/17/springone2gx-2014-replay-testing-with-spring-framework-4-x" />
-    <category term="news" label="News and Events" />
-    <author>
-      <name>Pieter Humphrey</name>
-    </author>
-    <id>tag:spring.io,2015-02-18:1979</id>
-    <updated>2015-02-17T22:47:00Z</updated>
-    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
-&lt;p&gt;Speaker: Sam Brannen, Swiftmind &lt;/p&gt;
-&lt;p&gt;Core Spring Track &lt;/p&gt;
-&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/testing-with-spring-framework-4x"&gt;http://www.slideshare.net/SpringCentral/testing-with-spring-framework-4x&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The Spring Framework has undergone a lot of innovation in the 4.0 and 4.1 releases, and so has its testing support. Join Spring Test component lead Sam Brannen in this talk to discover what's new in Spring's testing support in 4.0 through 4.1. This talk will provide attendees an overview of what's been deprecated, what's changed, and what's been introduced in Spring's testing support over the last two years, with real life examples and tips for best practices. Highlights include using SocketUtils to scan for free TCP &amp;amp; UDP server ports, the ActiveProfilesResolver API, meta-annotation support for test annotations including attribute overrides, best practices with TestNG, using Groovy scripts to configure an ApplicationContext for integration tests, improvements to SQL script execution and embedded databases, the new TestContext framework bootstrap strategy, programmatic transaction management in tests, and more.&lt;/p&gt;
-&lt;p&gt;&#xD;
-  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5tgkxGEvK4U" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&#xD;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>SpringOne2GX 2014 Replay: Reactive Oriented Architecture with Grails</title>
-    <link rel="alternate" href="https://spring.io/blog/2015/02/17/springone2gx-2014-replay-reactive-oriented-architecture-with-grails" />
-    <category term="news" label="News and Events" />
-    <author>
-      <name>Pieter Humphrey</name>
-    </author>
-    <id>tag:spring.io,2015-02-18:1978</id>
-    <updated>2015-02-17T22:46:00Z</updated>
-    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2014. &lt;/p&gt;
-&lt;p&gt;Speaker: Steve Pember &lt;/p&gt;
-&lt;p&gt;G&amp;amp;G Special Topics &lt;/p&gt;
-&lt;p&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/reactive-grails"&gt;http://www.slideshare.net/SpringCentral/reactive-grails&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;The natural tendency for application developers is to construct their code in a procedural, synchronous, monolithic pattern. Veteran developers know that this leads to error prone, unscalable, slow software - yet it is alarmingly prevalent. There have been several architectural patterns that have risen over the years which have attempted to mitigate this problem. One of the most popular has been Service Oriented Architecture, which involves breaking the monolithic application into a distributed system of several smaller services. In this talk, I argue that SOA is a decent start, but not nearly good enough. I will discuss the tenants of the Reactive Pattern and the importance of moving away from Monolithic to Reactive architectures. We will discuss the various Groovy-friendly technologies that allow us to build distributed, micro-service based applications and cover effective communication strategies between each service. We will see how being Reactive is the only viable architecture for large, efficient, scalable systems. If Reactive is new to you, this should be an excellent introduction.&lt;/p&gt;
-&lt;p&gt;&#xD;
-  &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/wUxbb6X0Kgs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&#xD;
-&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Spring Cloud 1.0.0.RC3 Available Now</title>
-    <link rel="alternate" href="https://spring.io/blog/2015/02/13/spring-cloud-1-0-0-rc3-available-now" />
-    <category term="releases" label="Releases" />
-    <author>
-      <name>Dave Syer</name>
-    </author>
-    <id>tag:spring.io,2015-02-13:1976</id>
-    <updated>2015-02-13T15:53:00Z</updated>
-    <content type="html">&lt;p&gt;Spring Cloud 1.0.0.RC3 is available now from &lt;a href="https://repo.spring.io/libs-milestone-local"&gt;https://repo.spring.io/libs-milestone-local&lt;/a&gt;. This is (hopefully) the last milestone release before 1.0.0. There were some bug fixes since 1.0.0.RC2 and also a few small new features:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Refactored the Feign support to look a bit more like Spring Data (so &lt;code&gt;@EnableFeignClients&lt;/code&gt; instead of &lt;code&gt;@FeignClientScan&lt;/code&gt;).&lt;/li&gt;
-  &lt;li&gt;Support for multipart/form-data in the Zuul proxy&lt;/li&gt;
-  &lt;li&gt;Support for including and excluding remote services in the automatic route registration in Zuul&lt;/li&gt;
-  &lt;li&gt;Support for declarative Ribbon retry in Zuul&lt;/li&gt;
-  &lt;li&gt;Cleaned up of a lot of dependencies. If you use the spring-cloud-starters you should get a nice consistent experience of adding and subtracting features. Gradle users need to use the &lt;a href="https://github.com/spring-gradle-plugins/dependency-management-plugin"&gt;dependency management plugin&lt;/a&gt; for the same experience.&lt;/li&gt;
-  &lt;li&gt;Added small, bite-sized &lt;a href="https://github.com/spring-cloud-samples/tests"&gt;sample projects&lt;/a&gt; for integration testing of classpath isolation issues.&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>Spring XD 1.1 GA and 1.0.4 released</title>
-    <link rel="alternate" href="https://spring.io/blog/2015/02/12/spring-xd-1-1-ga-and-1-0-4-released" />
-    <category term="releases" label="Releases" />
-    <author>
-      <name>Mark Pollack</name>
-    </author>
-    <id>tag:spring.io,2015-02-10:1969</id>
-    <updated>2015-02-12T17:17:00Z</updated>
-    <content type="html">&lt;p&gt;Six months after the 1.0 GA release, the team is happy to announce the availability of Spring XD 1.1 GA. &lt;/p&gt;&lt;p&gt;Download Links:&lt;br/&gt;* 1.1.0.RELEASE: &lt;a href="http://repo.spring.io/release/org/springframework/xd/spring-xd/1.1.0.RELEASE/spring-xd-1.1.0.RELEASE-dist.zip"&gt;zip&lt;/a&gt;, &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Getting-Started#osx-homebrew-installation"&gt;homebrew&lt;/a&gt;, &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Getting-Started#redhatcentos-installation"&gt;yum&lt;/a&gt;.&lt;br/&gt;* 1.0.4.RELEASE: &lt;a href="http://repo.spring.io/libs-milestone/org/springframework/xd/spring-xd/1.0.4.RELEASE/spring-xd-1.0.4.RELEASE-dist.zip"&gt;zip&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Please read &lt;a href="https://spring.io/blog/2015/02/12/spring-xd-data-driven-connectivity-within-a-unified-platform"&gt;Sabby Anandan&amp;rsquo;s blog&lt;/a&gt; for a general overview of Spring XD. Specific to 1.1, a ton of features have been added. Here are some that will give you the most bang for your big data buck.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Stream Processing with &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Creating-a-Data-Stream-Processor-Module#reactor-streams"&gt;Reactor&lt;/a&gt;, &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Creating-a-Data-Stream-Processor-Module#rxjava-streams"&gt;RxJava&lt;/a&gt;, &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Creating-a-Data-Stream-Processor-Module#spark-streaming"&gt;Spark Streaming&lt;/a&gt; and &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Creating-a-Python-Module"&gt;Python&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Orchestrate &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Batch-Jobs#running-spark-application-as-a-batch-job-sparkapp"&gt;Spark&lt;/a&gt; and &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Batch-Jobs#running-sqoop-as-a-batch-job-sqoop"&gt;Sqoop&lt;/a&gt; Batch Jobs&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://github.com/spring-projects/spring-xd/wiki/Application-Configuration#kafka"&gt;Kafka&lt;/a&gt; based message bus, &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Sources#kafka"&gt;source&lt;/a&gt; and &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Sinks#kafka-sink"&gt;sink&lt;/a&gt; along with &lt;a href="https://spring.io/blog/2015/02/09/spring-integration-kafka-extension-1-0-ga-is-available"&gt;new general purpose high level Kafka APIs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://github.com/spring-projects/spring-xd/wiki/Application-Configuration#rabbitmq"&gt;Batching and compression for RabbitMQ&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Easily develop, &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Creating-a-Processor-Module#write-a-test"&gt;test&lt;/a&gt;, and &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Creating-a-Processor-Module#register-the-module"&gt;package custom modules&lt;/a&gt; and &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Creating-a-Processor-Module#register-the-module"&gt;upload&lt;/a&gt; them to the admin server.&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://github.com/spring-projects/spring-xd/wiki/Running-on-YARN#working-with-container-groups"&gt;Containers group management when running XD on YARN&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://github.com/spring-projects/spring-xd/wiki/Application-Configuration#customizing-authorization"&gt;Role based authorization of REST endpoints&lt;/a&gt; and &lt;a href="https://github.com/spring-projects/spring-xd/wiki/Application-Configuration#ldap-authentication"&gt;LDAP&lt;/a&gt;/&lt;a href="https://github.com/spring-projects/spring-xd/wiki/Application-Configuration#file-based-authentication"&gt;file&lt;/a&gt; based authentication&lt;/li&gt;
-  &lt;li&gt;Support for Pivotal, Hortonworks, and Cloudera Hadoop distributions.&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;There are &lt;a href="https://github.com/spring-projects/spring-xd-samples"&gt;two dozen sample applications available&lt;/a&gt;, so check them out.&lt;/p&gt;&lt;p&gt;As a sneak peek of things to come, Andy Clement and his team are working on an amazing UI for authoring and monitoring XD Streams. Here is a screen shot based on the &lt;a href="https://github.com/spring-projects/spring-xd-samples/tree/master/analytics-dashboard"&gt;analytics-dashboard application&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/markpollack/spring-xd-images/master/spring-xd-flo.png" alt="Flo""/&gt;&lt;/p&gt;&lt;p&gt;Stay tuned!&lt;/p&gt;&lt;p&gt;Feedback is very important, so please keep in touch with questions and comments via&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://stackoverflow.com/questions/tagged/spring-xd"&gt;StackOverflow&lt;/a&gt; &lt;code&gt;spring-xd&lt;/code&gt; tag&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://jira.spring.io/browse/XD/?selectedTab=com.atlassian.jira.jira-projects-plugin:summary-panel"&gt;Spring JIRA&lt;/a&gt; or &lt;a href="https://github.com/spring-projects/spring-xd/issues"&gt;GitHub Issues&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
   </entry>
 </feed>
 
